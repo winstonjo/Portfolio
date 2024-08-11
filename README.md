@@ -1,7 +1,7 @@
 # Computer Science
 
 ### Education
-TODO
+* Bachelor Of Science, Weber State University (Dec 2024)
 
 ### Projects
 TODO
