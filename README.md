@@ -1,7 +1,7 @@
 # Computer Science
 
 ### Education
-* Bachelor Of Science, Weber State University (Dec 2024)
+* Bachelor Of Science | Weber State University (Dec 2024)
 
 ### Projects
-TODO
+* Hangman Project
